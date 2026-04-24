@@ -1,0 +1,3 @@
+[submodule "submodules/sub-test"]
+	path = submodules/sub-test
+	url = https://github.com/the-harborage/sub-test.git
